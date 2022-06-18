@@ -1,0 +1,34 @@
+[
+{
+"name": "Mothership",
+"unitType": "Air base",
+"range": 3,
+"movement": 4,
+"strength": 90,
+"rangedStrength": 70,
+"cost": 0,
+"requiredTech": "Plastics",
+"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles", "Can carry [2] [Aircraft] units", "Can carry [4] [Missile] units", "Never appears as a Barbarian unit", "All tiles cost 1 movement", "Can see over obstacles", "[+1] Sight"]
+},
+{
+"name": "Support Helicopter",
+"unitType": "Helicopter",
+"movement": 4,
+"strength": 70,
+"cost": 0,
+"requiredTech": "Pharmaceuticals",
+"uniques": ["Cannot attack", "Never appears as a Barbarian unit", "All tiles cost 1 movement", "All adjacent units heal [+20] HP when healing"]
+},
+{
+"name": "Land Carrier",
+"unitType": "Land Carrier",
+"range": 4,
+"movement": 6,
+"strength": 70,
+"rangedStrength": 100,
+"cost": 0,
+"requiredTech": "Mobile Tactics",
+"uniques": ["Can carry [4] [Aircraft] units", "Can carry [2] [Missile] units", "Never appears as a Barbarian unit"],
+"promotions": ["Indirect Fire"]
+}
+]

@@ -1,0 +1,12 @@
+[
+{
+"name": "Oil Refinery",
+"production": 3,
+"cost": 300,
+"specialistSlots": {"Engineer": 1},
+"greatPersonPoints": {"Great Engineer": 1},
+"maintenance": 3,
+"uniques": ["Consumes [3] [Oil]", "Provides [2] [Fuel]"],
+"requiredTech": "Biology"
+}
+]

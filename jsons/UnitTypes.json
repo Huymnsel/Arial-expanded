@@ -1,0 +1,10 @@
+[
+{
+"name": "Air base",
+"movementType": "Land"
+},
+{
+"name": "Land Carrier",
+"movementType": "Land"
+}
+]
