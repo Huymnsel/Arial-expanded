@@ -1,26 +1,40 @@
 
 game.png
-size: 256, 64
+size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Oil Refinery
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Fuel
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Land Carrier
   rotate: false
-  xy: 76, 32
+  xy: 220, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mothership
   rotate: false
-  xy: 4, 4
+  xy: 220, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Support Helicopter
   rotate: false
-  xy: 116, 32
+  xy: 292, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0

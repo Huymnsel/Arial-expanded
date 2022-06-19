@@ -38,5 +38,21 @@
 		"prerequisites": ["Accuracy III", "Barrage III", "Bombardment II", "Targeting II"],
 		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water", "Land Carrier"]
+},
+{
+		"name": "Head First",
+		"uniques": ["[+15]% Strength <when attacking>"],
+		"unitTypes": ["Helicopter"]
+},
+{
+		"name": "Organized Offense",
+		"prerequisites": ["Head First"],
+		"uniques": ["[+40]% Strength <when attacking>"],
+		"unitTypes": ["Helicopter"]
+},
+{
+		"name": "Brace Yourself",
+		"uniques": ["[+50]% Strength <vs [Anti Air] units> <when defending>"],
+		"unitTypes": ["Helicopter"]
 }
 ]

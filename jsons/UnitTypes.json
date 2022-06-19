@@ -6,5 +6,9 @@
 {
 "name": "Land Carrier",
 "movementType": "Land"
+},
+{
+"name": "Anti Air",
+"movementType": "Land"
 }
 ]

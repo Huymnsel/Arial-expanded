@@ -3,5 +3,11 @@
 "name": "Fuel",
 "resourceType": "Strategic",
 "gold": 1
+},
+
+{
+"name": "Biohazard Matter",
+"resourceType": "Strategic",
+"food": 1
 }
 ]

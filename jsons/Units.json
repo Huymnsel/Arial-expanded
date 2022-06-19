@@ -30,5 +30,30 @@
 "requiredTech": "Mobile Tactics",
 "uniques": ["Can carry [4] [Aircraft] units", "Can carry [2] [Missile] units", "Never appears as a Barbarian unit"],
 "promotions": ["Indirect Fire"]
+},
+{
+		"name": "Anti-Aircraft Gun",
+		"unitType": "Anti Air",
+		"movement": 2,
+		"interceptRange": 2,
+		"strength": 50,
+		"cost": 375,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Mobile SAM",
+		"obsoleteTech": "Rocketry",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>", "[+150]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "machinegun"
+},
+{
+		"name": "Mobile SAM",
+		"unitType": "Anti Air",
+		"movement": 3,
+		"interceptRange": 2,
+		"strength": 65,
+		"cost": 425,
+		"requiredTech": "Rocketry",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Air] units>",
+			"[+150]% Strength <vs [Helicopter] units>", "Never appears as a Barbarian unit"],
+		"attackSound": "missile"
 }
 ]
