@@ -81,8 +81,7 @@
 "interceptRange": 1,
 "range": 3,
 "rangedStrength": 95,
-//"cost": 475,
-"cost": 0,
+"cost": 475,
 "requiredTech": "Advanced Ballistics",
 "uniques": ["Never appears as a Barbarian unit", "All tiles cost 1 movement", "Can carry [1] [Guided Missile] units", "[+50%] strength <vs [Helicopter, Aircraft] units>", "[25]% chance to intercept air attacks", "No defensive terrain bonus", "[+50]% Strength <in [Helicopter Base] tiles> <when defending>"],
 "promotions": ["Indirect Fire"]
