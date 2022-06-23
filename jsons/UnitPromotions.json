@@ -2,42 +2,36 @@
 {
 		"name": "Armor Plating I",
 		"uniques": ["[+25]% Strength <when defending>"],
-		"unitTypes": ["Aircraft Carrier", "Air base"]
+		"unitTypes": ["Aircraft Carrier", "Air Base"]
 },
 {
 		"name": "Armor Plating II",
 		"prerequisites": ["Armor Plating I"],
 		"uniques": ["[+25]% Strength <when defending>"],
-		"unitTypes": ["Aircraft Carrier", "Air base"]
+		"unitTypes": ["Aircraft Carrier", "Air Base"]
 },
 {
 		"name": "Armor Plating III",
 		"prerequisites": ["Armor Plating II"],
 		"uniques": ["[+25]% Strength <when defending>"],
-		"unitTypes": ["Aircraft Carrier", "Air base"]
+		"unitTypes": ["Aircraft Carrier", "Air Base"]
 },
 {
 		"name": "Flight Deck I",
 		"uniques": ["Can carry [1] extra [Aircraft] units"],
-		"unitTypes": ["Aircraft Carrier", "Air base"]
+		"unitTypes": ["Aircraft Carrier", "Air Base"]
 },
 {
 		"name": "Flight Deck II",
 		"prerequisites": ["Flight Deck I"],
 		"uniques": ["Can carry [1] extra [Aircraft] units"],
-		"unitTypes": ["Aircraft Carrier", "Air base"]
+		"unitTypes": ["Aircraft Carrier", "Air Base"]
 },
 {
 		"name": "Flight Deck III",
 		"prerequisites": ["Flight Deck II"],
 		"uniques": ["Can carry [1] extra [Aircraft] units"],
-		"unitTypes": ["Aircraft Carrier", "Air base"]
-},
-{
-		"name": "Indirect Fire",
-		"prerequisites": ["Accuracy III", "Barrage III", "Bombardment II", "Targeting II"],
-		"uniques": ["Ranged attacks may be performed over obstacles"],
-		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water", "Land Carrier"]
+		"unitTypes": ["Aircraft Carrier", "Air Base"]
 },
 {
 		"name": "Head First",
