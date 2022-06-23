@@ -18,7 +18,7 @@
 "strength": 70,
 "cost": 375,
 "requiredTech": "Telecommunications",
-"uniques": ["Cannot attack", "Never appears as a Barbarian unit", "All tiles cost 1 movement", "All adjacent units heal [+20] HP when healing", "[+50]% Strength <in [Helicopter Base] tiles>"]
+"uniques": ["Cannot attack", "Never appears as a Barbarian unit", "All tiles cost 1 movement", "All adjacent units heal [+20] HP when healing", "[+50]% Strength <in [Helicopter Base] tiles> <when defending>"]
 },
 
 {
@@ -68,7 +68,7 @@
 "strength": 85,
 "cost": 375,
 "requiredTech": "Robotics",
-"uniques": ["Never appears as a Barbarian unit", "All tiles cost 1 movement", "[+40%] strength <vs [Water] units>", "Defense bonus when embarked"],
+"uniques": ["Never appears as a Barbarian unit", "All tiles cost 1 movement", "[+40%] strength <vs [Water] units>", "Defense bonus when embarked", "[+50]% Strength <in [Helicopter Base] tiles> <when defending>"],
 "promotions": ["Amphibious"],
 "requiredResource": "Fuel"
 },
@@ -78,12 +78,13 @@
 "unitType": "Helicopter",
 "movement": 3,
 "strength": 95,
-"interceptRange": 3,
+"interceptRange": 1,
 "range": 3,
 "rangedStrength": 95,
-"cost": 425,
+//"cost": 475,
+"cost": 0,
 "requiredTech": "Advanced Ballistics",
-"uniques": ["Never appears as a Barbarian unit", "All tiles cost 1 movement", "Can carry [3] [Missile] units", "[+50%] strength <vs [Helicopter, Aircraft] units>", "[25]% chance to intercept air attacks", "No defensive terrain bonus", "[+50]% Strength <in [Helicopter Base] tiles>"],
+"uniques": ["Never appears as a Barbarian unit", "All tiles cost 1 movement", "Can carry [1] [Guided Missile] units", "[+50%] strength <vs [Helicopter, Aircraft] units>", "[25]% chance to intercept air attacks", "No defensive terrain bonus", "[+50]% Strength <in [Helicopter Base] tiles> <when defending>"],
 "promotions": ["Indirect Fire"]
 },
 
@@ -94,7 +95,7 @@
 "strength": 75,
 "cost": 325,
 "requiredTech": "Mobile Tactics",
-"uniques": ["Never appears as a Barbarian unit", "All tiles cost 1 movement", "Can move after attacking", "[+50]% Strength <when attacking>", "[+50]% Strength <in [Helicopter Base] tiles>"],
+"uniques": ["Never appears as a Barbarian unit", "All tiles cost 1 movement", "Can move after attacking", "[+50]% Strength <when attacking>", "[+50]% Strength <in [Helicopter Base] tiles> <when defending>"],
 "requiredResource": "Fuel"
 },
 
@@ -106,7 +107,7 @@
 "cost": 425,
 "requiredTech": "Computers",
 "requiredResource": "Aluminum",
-"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "[+50]% Strength <in [Helicopter Base] tiles>"],	
+"uniques": ["[+100]% Strength <vs [Armored] units>", "No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit", "[+50]% Strength <in [Helicopter Base] tiles> <when defending>"],	
 "attackSound": "machinegun"
 },
 
