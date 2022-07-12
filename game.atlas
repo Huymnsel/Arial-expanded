@@ -13,7 +13,7 @@ BuildingIcons/Chemical Weapons Lab
   index: -1
 BuildingIcons/Oil Refinery
   rotate: false
-  xy: 868, 4
+  xy: 976, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -34,42 +34,42 @@ ResourceIcons/Fuel
   index: -1
 TileSets/FantasyHex/Units/Heavy Duty Helicopter
   rotate: false
-  xy: 1192, 12
+  xy: 1300, 12
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Land Carrier
   rotate: false
-  xy: 1264, 76
+  xy: 1372, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mothership
   rotate: false
-  xy: 1192, 48
+  xy: 1300, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Naval Helicopter
   rotate: false
-  xy: 1304, 76
+  xy: 1412, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Quick Ops Helicopter
   rotate: false
-  xy: 1344, 76
+  xy: 1452, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Support Helicopter
   rotate: false
-  xy: 1384, 76
+  xy: 1492, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -95,30 +95,37 @@ UnitIcons/Land Carrier
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Napalm Missile
+UnitIcons/Mothership
   rotate: false
   xy: 652, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Naval Helicopter
+UnitIcons/Napalm Missile
   rotate: false
   xy: 760, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Naval Helicopter
+  rotate: false
+  xy: 868, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Quick Ops Helicopter
   rotate: false
-  xy: 976, 4
+  xy: 1084, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Support Helicopter
   rotate: false
-  xy: 1084, 4
+  xy: 1192, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
