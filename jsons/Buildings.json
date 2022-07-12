@@ -17,6 +17,6 @@
 "specialistSlots": {"Scientist": 1},
 "maintenance": 2,
 "uniques": ["Provides [2] [Biohazard Matter]"],
-"requeredTech": "Biology"
+"requiredTech": "Biology"
 }
 ]
