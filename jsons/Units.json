@@ -9,7 +9,7 @@
 "cost": 450,
 "requiredTech": "Plastics",
 "uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
-		"Can carry [2] [Aircraft] units",
+		"Can carry [2] [Air] units",
 		"Can carry [4] [Missile] units",
 		"Never appears as a Barbarian unit",
 		"All tiles cost 1 movement",
@@ -41,7 +41,7 @@
 "rangedStrength": 100,
 "cost": 450,
 "requiredTech": "Mobile Tactics",
-"uniques": ["Can carry [4] [Aircraft] units",
+"uniques": ["Can carry [4] [Air] units",
 		"Can carry [2] [Missile] units",
 		"Never appears as a Barbarian unit"],
 "promotions": ["Indirect Fire"]
