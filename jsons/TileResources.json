@@ -1,8 +1,7 @@
 [
 {
 "name": "Fuel",
-"resourceType": "Strategic",
-"production": 1
+"resourceType": "Strategic"
 },
 
 {
