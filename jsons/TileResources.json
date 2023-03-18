@@ -1,13 +1,11 @@
 [
 {
 "name": "Fuel",
-"resourceType": "Strategic",
-"production": 1
+"resourceType": "Strategic"
 },
 
 {
 "name": "Biohazard Matter",
-"resourceType": "Strategic",
-"food": 1
+"resourceType": "Strategic"
 }
 ]
